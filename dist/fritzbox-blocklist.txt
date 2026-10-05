@@ -2,6 +2,7 @@
 33across.com
 3lift.com
 ad.lgappstv.com
+ad.youtube.com
 adcolony.com
 addthis.com
 adform.net
@@ -13,6 +14,7 @@ adnxs.com
 ads-twitter.com
 ads.linkedin.com
 ads.roku.com
+ads.youtube.com
 adsafeprotected.com
 adscale.de
 adservice.google.com
