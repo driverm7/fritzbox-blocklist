@@ -1,0 +1,23 @@
+# Komplett gesperrte Dienste
+# Facebook (Webseite, Login-Buttons, SDK, CDN)
+# Hinweis: fbcdn.net wird teils auch von Instagram genutzt.
+facebook.com
+facebook.net
+fb.com
+fb.me
+fbcdn.net
+fbsbx.com
+
+# TikTok / ByteDance (App, Web, CDN, Ads)
+# Hinweis: ByteDance-CDNs werden teils auch von CapCut genutzt.
+tiktok.com
+tiktokv.com
+tiktokcdn.com
+tiktokcdn-us.com
+musical.ly
+muscdn.com
+byteoversea.com
+ibytedtos.com
+ibyteimg.com
+pangle.io
+pangleglobal.com

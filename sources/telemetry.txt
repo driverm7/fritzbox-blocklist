@@ -13,8 +13,15 @@ browser.events.data.msn.com
 telemetry.gfe.nvidia.com
 events.gfe.nvidia.com
 
-# Mozilla
+# Mozilla / Firefox (Telemetrie, Experimente, gesponserte Kacheln, Crash-Reports)
+# NICHT sperren: firefox.settings.services.mozilla.com (Sicherheits-Updates)
 incoming.telemetry.mozilla.org
+telemetry-incoming.r53-2.services.mozilla.com
+normandy.cdn.mozilla.net
+normandy.services.mozilla.com
+contile.services.mozilla.com
+tiles.services.mozilla.com
+crash-reports.mozilla.com
 
 # Samsung Smart-TV
 samsungads.com
@@ -33,7 +40,18 @@ ads.roku.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 
-# Xiaomi
+# Xiaomi / MIUI / HyperOS (Tracking, Statistik, Systemwerbung)
+# Update-, Konto- und Cloud-Domains bewusst NICHT gesperrt.
 tracking.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
 data.mistat.xiaomi.com
-api.ad.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+ad.xiaomi.com
+ad.intl.xiaomi.com
+ad.mi.com
+adv.sec.miui.com
+adv.sec.intl.miui.com
