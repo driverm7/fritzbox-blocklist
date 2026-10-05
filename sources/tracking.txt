@@ -54,3 +54,19 @@ ioam.de
 etracker.de
 webtrekk.net
 wt-eu02.net
+
+# Aus Adblock-Test ergänzt
+udc.yahoo.com
+tagmanager.google.com
+posthog.com
+rudderstack.com
+widgets.pinterest.com
+xp.apple.com
+ngfts.lge.com
+# Kann Checkout/Login auf manchen Shops stören (Betrugserkennung)
+siftscience.com
+# Kann Links in E-Mails/Apps (Branch-Deeplinks) brechen
+bnc.lt
+# Cookie-Banner – manche Seiten laden ohne Banner nicht korrekt
+cookiebot.com
+privacyportal.onetrust.com
