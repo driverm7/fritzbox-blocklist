@@ -1,0 +1,31 @@
+name: Build blocklist
+
+on:
+  push:
+    branches: [main]
+    paths: ['sources/**', 'scripts/**']
+  pull_request:
+    paths: ['sources/**', 'scripts/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build
+        shell: pwsh
+        run: ./scripts/build.ps1 -Strict
+
+      - name: Commit dist
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git diff --cached --quiet || git commit -m "Build blocklist [skip ci]"
+          git push

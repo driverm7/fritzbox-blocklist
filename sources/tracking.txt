@@ -1,0 +1,7 @@
+# Tracking / Telemetrie
+google-analytics.com
+googletagmanager.com
+scorecardresearch.com
+hotjar.com
+app-measurement.com
+graph.facebook.com
