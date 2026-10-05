@@ -1,0 +1,16 @@
+adnxs.com
+adservice.google.com
+amazon-adsystem.com
+app-measurement.com
+criteo.com
+criteo.net
+doubleclick.net
+google-analytics.com
+googleadservices.com
+googlesyndication.com
+googletagmanager.com
+graph.facebook.com
+hotjar.com
+outbrain.com
+scorecardresearch.com
+taboola.com

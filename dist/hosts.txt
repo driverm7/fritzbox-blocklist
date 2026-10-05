@@ -1,0 +1,16 @@
+0.0.0.0 adnxs.com
+0.0.0.0 adservice.google.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 app-measurement.com
+0.0.0.0 criteo.com
+0.0.0.0 criteo.net
+0.0.0.0 doubleclick.net
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 hotjar.com
+0.0.0.0 outbrain.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 taboola.com
