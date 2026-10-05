@@ -1,10 +1,7 @@
 2o7.net
 33across.com
 3lift.com
-ad.intl.xiaomi.com
 ad.lgappstv.com
-ad.mi.com
-ad.xiaomi.com
 adcolony.com
 addthis.com
 adform.net
@@ -20,8 +17,6 @@ adsafeprotected.com
 adscale.de
 adservice.google.com
 adsrvr.org
-adv.sec.intl.miui.com
-adv.sec.miui.com
 agkn.com
 amazon-adsystem.com
 amplitude.com
@@ -49,10 +44,6 @@ criteo.com
 criteo.net
 crwdcntrl.net
 ct.pinterest.com
-data.mistat.india.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.rus.xiaomi.com
-data.mistat.xiaomi.com
 demdex.net
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
@@ -96,6 +87,10 @@ mathtag.com
 mc.yandex.ru
 media.net
 mgid.com
+mi-img.com
+mi.com
+mifile.cn
+miui.com
 mixpanel.com
 moatads.com
 mookie1.com
@@ -145,10 +140,6 @@ tiktokcdn.com
 tiktokv.com
 tiles.services.mozilla.com
 tr.snapchat.com
-tracking.india.miui.com
-tracking.intl.miui.com
-tracking.miui.com
-tracking.rus.miui.com
 unityads.unity3d.com
 vortex-win.data.microsoft.com
 vortex.data.microsoft.com
@@ -156,6 +147,10 @@ vungle.com
 watson.microsoft.com
 webtrekk.net
 wt-eu02.net
+xiaomi.cn
+xiaomi.com
+xiaomi.net
+xiaomiyoupin.com
 xplosion.de
 yieldlab.net
 yieldmo.com
