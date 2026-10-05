@@ -30,6 +30,7 @@ appsflyer.com
 bat.bing.com
 bidswitch.net
 bluekai.com
+bnc.lt
 browser.events.data.msn.com
 byteoversea.com
 casalemedia.com
@@ -40,6 +41,7 @@ clarity.ms
 comscore.com
 contextweb.com
 contile.services.mozilla.com
+cookiebot.com
 crash-reports.mozilla.com
 crazyegg.com
 criteo.com
@@ -99,6 +101,7 @@ mookie1.com
 mouseflow.com
 muscdn.com
 musical.ly
+ngfts.lge.com
 normandy.cdn.mozilla.net
 normandy.services.mozilla.com
 nr-data.net
@@ -110,12 +113,15 @@ outbrain.com
 pangle.io
 pangleglobal.com
 popads.net
+posthog.com
+privacyportal.onetrust.com
 propellerads.com
 pubmatic.com
 quantserve.com
 revcontent.com
 rlcdn.com
 rubiconproject.com
+rudderstack.com
 samsungacr.com
 samsungads.com
 scorecardresearch.com
@@ -123,6 +129,7 @@ seedtag.com
 serving-sys.com
 sharethis.com
 sharethrough.com
+siftscience.com
 smartadserver.com
 smilewanted.com
 sonobi.com
@@ -131,6 +138,7 @@ startappservice.com
 statcounter.com
 supersonicads.com
 taboola.com
+tagmanager.google.com
 tapad.com
 teads.tv
 telemetry-incoming.r53-2.services.mozilla.com
@@ -142,17 +150,20 @@ tiktokcdn.com
 tiktokv.com
 tiles.services.mozilla.com
 tr.snapchat.com
+udc.yahoo.com
 unityads.unity3d.com
 vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vungle.com
 watson.microsoft.com
 webtrekk.net
+widgets.pinterest.com
 wt-eu02.net
 xiaomi.cn
 xiaomi.com
 xiaomi.net
 xiaomiyoupin.com
+xp.apple.com
 xplosion.de
 yieldlab.net
 yieldmo.com
