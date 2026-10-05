@@ -21,3 +21,15 @@ ibytedtos.com
 ibyteimg.com
 pangle.io
 pangleglobal.com
+
+# Xiaomi / MIUI / HyperOS / Mi – KOMPLETT gesperrt
+# Achtung: Xiaomi-Handys bekommen keine Updates mehr, Mi-Konto/Mi Cloud,
+# Mi Home (Saugroboter, Kameras, Lampen) und Xiaomi-App-Store funktionieren nicht.
+xiaomi.com
+xiaomi.net
+xiaomi.cn
+mi.com
+miui.com
+mi-img.com
+mifile.cn
+xiaomiyoupin.com
