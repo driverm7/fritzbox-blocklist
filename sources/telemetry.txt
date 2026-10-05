@@ -1,0 +1,39 @@
+# Geräte- und Software-Telemetrie
+# Bei Problemen mit einem Gerät/Programm zuerst hier Einträge auskommentieren.
+
+# Windows / Microsoft
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+events.data.microsoft.com
+telemetry.microsoft.com
+watson.microsoft.com
+browser.events.data.msn.com
+
+# NVIDIA GeForce Experience
+telemetry.gfe.nvidia.com
+events.gfe.nvidia.com
+
+# Mozilla
+incoming.telemetry.mozilla.org
+
+# Samsung Smart-TV
+samsungads.com
+samsungacr.com
+
+# LG Smart-TV
+ad.lgappstv.com
+lgsmartad.com
+yumenetworks.com
+
+# Roku
+logs.roku.com
+ads.roku.com
+
+# Amazon Fire TV / Echo
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+
+# Xiaomi
+tracking.miui.com
+data.mistat.xiaomi.com
+api.ad.xiaomi.com

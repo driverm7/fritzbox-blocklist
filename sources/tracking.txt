@@ -1,7 +1,56 @@
-# Tracking / Telemetrie
+# Tracking / Analytics
 google-analytics.com
 googletagmanager.com
-scorecardresearch.com
-hotjar.com
 app-measurement.com
-graph.facebook.com
+hotjar.com
+hotjar.io
+clarity.ms
+mouseflow.com
+crazyegg.com
+fullstory.com
+mixpanel.com
+amplitude.com
+api.segment.io
+nr-data.net
+chartbeat.com
+chartbeat.net
+quantserve.com
+scorecardresearch.com
+comscore.com
+statcounter.com
+histats.com
+# Daten-Broker / DMPs
+demdex.net
+everesttech.net
+omtrdc.net
+2o7.net
+krxd.net
+bluekai.com
+exelator.com
+agkn.com
+crwdcntrl.net
+tapad.com
+rlcdn.com
+mookie1.com
+# Social-Pixel
+pixel.facebook.com
+ads.linkedin.com
+analytics.twitter.com
+ads-twitter.com
+bat.bing.com
+ct.pinterest.com
+tr.snapchat.com
+analytics.tiktok.com
+mc.yandex.ru
+# Share-Widgets
+addthis.com
+sharethis.com
+# Mobile Attribution
+appsflyer.com
+adjust.com
+kochava.com
+# DE Reichweitenmessung / Analytics
+ioam.de
+etracker.de
+webtrekk.net
+wt-eu02.net
