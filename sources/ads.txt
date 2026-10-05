@@ -66,3 +66,7 @@ chartboost.com
 supersonicads.com
 startappservice.com
 adcolony.com
+
+# YouTube-Werbung (soweit per DNS möglich; In-Stream-Ads kommen über googlevideo.com und bleiben)
+ad.youtube.com
+ads.youtube.com
