@@ -1,5 +1,18 @@
 # FRITZ!Box Blocklist
 
+## Neu: DNS-Filter ab FRITZ!OS 8.40 (per URL, empfohlen)
+`Heimnetz` → `Netzwerk` → `Netzwerkeinstellungen` → `Erweiterte Netzwerkeinstellungen` → `DNS-Filter` → **Filterliste hinzufügen** und diese URL eintragen:
+
+```
+https://raw.githubusercontent.com/driverm7/fritzbox-blocklist/main/dist/fritzbox-blocklist.txt
+```
+
+Die Box lädt die Liste selbst und aktualisiert sie automatisch – kein Kopieren, kein 500er-Limit, wirkt für alle Geräte im Heim- und Gastnetz.
+Einträge in `sources/allowlist.txt` gehören zusätzlich in die **Ausnahmen** des DNS-Filters.
+Am einfachsten geht das mit der App **CleanBox → Schutz** (Liste antippen = URL kopiert, Box-Oberfläche öffnet angemeldet, Domain-Test).
+
+## Alt: Kindersicherung (bis FRITZ!OS 8.3x)
+
 Domain-Blacklist für die FRITZ!Box-Kindersicherung (Filterliste „Gesperrte Internetseiten“).
 
 **Fertige Liste:** [`dist/fritzbox-blocklist.txt`](dist/fritzbox-blocklist.txt)
