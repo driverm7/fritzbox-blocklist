@@ -1,0 +1,72 @@
+# Telemetries 2 – Telemetry & Tracking Blocklist
+# Duplicates with other source files are removed automatically by the build.
+
+# --- Windows & Microsoft Telemetry ---
+vortex.data.microsoft.com
+vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+telemetry.microsoft.com
+watson.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com
+diagnostics.support.microsoft.com
+corp.sts.microsoft.com
+statsfe2.ws.microsoft.com
+compatexchange.cloudapp.net
+activity.windows.com
+bingads.microsoft.com
+
+# --- Apple Telemetry & Analytics ---
+metrics.icloud.com
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+diagnostics.apple.com
+iphonesubmissions.apple.com
+radarsubmissions.apple.com
+xp.apple.com
+
+# --- Mobile & Cross-App Analytics ---
+app-measurement.com
+crashlytics.com
+firebase-settings.crashlytics.com
+stats.appsflyer.com
+t.appsflyer.com
+api.mixpanel.com
+decide.mixpanel.com
+sb.scorecardresearch.com
+b.scorecardresearch.com
+api.amplitude.com
+api2.amplitude.com
+in.appcenter.ms
+mobile.pipe.aria.microsoft.com
+data.flurry.com
+adj.st
+app.adjust.com
+
+# --- Smart TVs & IoT Devices ---
+logs.roku.com
+scribe.logs.roku.com
+cooper.logs.roku.com
+device-metrics-us.amazon.com
+device-metrics-us-2.amazon.com
+fls-na.amazon.com
+samsungcloudsolution.com
+lcprd1.samsungcloudsolution.net
+gpm.samsungqbe.com
+osb-apps.samsungqbe.com
+ngfts.lge.com
+us.ad.lgsmartad.com
+us.ibs.lgappstv.com
+
+# --- Hardware, Browsers & Gaming Telemetry ---
+telemetry.nvidia.com
+events.gfe.nvidia.com
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+tracking.miui.com
+incoming.telemetry.mozilla.org
+telemetry.mozilla.org
+client-telemetry.roblox.com
+telemetry.battle.net
